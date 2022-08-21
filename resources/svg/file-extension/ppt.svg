@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>presentation_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="presentation_color">
+            <rect id="Rectangle-1" fill="#F4B236" x="0" y="0" width="18" height="18" rx="3"></rect>
+            <path
+                d="M2,4.00247329 C2,3.44882258 2.44994876,3 3.00684547,3 L14.9931545,3 C15.5492199,3 16,3.45576096 16,4.00247329 L16,13.9975267 C16,14.5511774 15.5500512,15 14.9931545,15 L3.00684547,15 C2.45078007,15 2,14.544239 2,13.9975267 L2,4.00247329 Z M3,6 L15,6 L15,12 L3,12 L3,6 Z"
+                id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

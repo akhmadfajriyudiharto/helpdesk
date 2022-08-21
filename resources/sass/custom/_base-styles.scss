@@ -1,0 +1,14 @@
+.ticket-reply-body {
+    a {
+        @apply text-blue-600 underline break-all;
+    }
+}
+
+.ticket-conversation {
+    @apply flex flex-col overflow-auto;
+    height: calc(100vh - 180px);
+
+    @media (min-width: theme('screens.sm')) {
+        height: calc(100vh - 120px);
+    }
+}

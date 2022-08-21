@@ -1,0 +1,15 @@
+// Tailwind
+@import "~tailwindcss/base";
+@import "./custom/base-styles";
+
+@import "~tailwindcss/components";
+@import "./custom/components";
+
+@import "~tailwindcss/utilities";
+@import "./custom/utilities";
+
+// Plugins
+@import '~ladda/css/ladda';
+
+// Custom
+@import "./custom/sections";

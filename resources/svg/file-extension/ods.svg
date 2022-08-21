@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>excel_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="excel_color">
+            <path d="M16,0 L2,0 C0.9,0 0,0.9 0,2 L0,16 C0,17.1 0.9,18 2,18 L16,18 C17.1,18 18,17.1 18,16 L18,2 C18,0.9 17.1,0 16,0 L16,0 Z" id="Shape" fill="#26A358"></path>
+            <path d="M13.4,14 L11.4,14 L9.2,10.2 L7,14 L5,14 L8.2,9 L5,4 L7,4 L9.2,7.8 L11.4,4 L13.4,4 L10.2,9 L13.4,14 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

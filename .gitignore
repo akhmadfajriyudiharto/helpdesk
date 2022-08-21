@@ -21,3 +21,8 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+composer.lock
+mix-manifest.json
+.DS_Store
+yarn.lock
+package-lock.json
